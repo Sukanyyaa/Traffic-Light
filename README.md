@@ -22,9 +22,9 @@ This project simulates a **Traffic Light Control System** using a **Finite State
 
 ## FSM State Encoding
 The states are encoded in 2-bit binary values for each direction:
-`00` → Green
-`01` → Yellow
-`10` → Red
+- `00` → Green
+- `01` → Yellow
+- `10` → Red
 
 
 ## 📂 File Structure
