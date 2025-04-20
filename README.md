@@ -27,5 +27,7 @@ The states are encoded in 2-bit binary values for each direction:
 - `10` → Red
 
 
-## 📂 File Structure
-
+## File Structure
+- `traffic_light` → Design program
+- `tb_traffic_light`  → Testbench program
+- `README`  → Project description
